@@ -130,12 +130,12 @@ section div article h2 {
     font-size: 1.1rem;
 }
 
-/* Footer
+/* Footer */
 
 .line-linear {
     height: 0.9vh;
     width: 100%;
-    background: linear-gradient(90deg, #0DCCFF 0%, #4760FF 100%);
+    background: linear-gradient(90deg, #465DFB 0%,#38148B 100%);
 }
 footer {
     margin: auto;
@@ -148,7 +148,7 @@ footer {
 
 footer > h3 {
     justify-content: center;
-} */
+}
 
 /* ----------------------------------------------------- */
 
